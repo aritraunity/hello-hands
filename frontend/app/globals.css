@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(59, 130, 246, 0.18), transparent 34rem),
+    radial-gradient(circle at bottom right, rgba(168, 85, 247, 0.16), transparent 32rem),
+    rgb(8, 12, 20);
+  color: rgb(226, 232, 240);
+}
+
+* {
+  box-sizing: border-box;
+}
