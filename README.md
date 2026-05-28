@@ -1,6 +1,7 @@
 # Hello Hands
 
 Hello Hands is a hybrid Python and Next.js project that simulates a two-bone inverse-kinematics robot arm with a wrist and four claw fingers.
+![Hello Hands UI](public/ui.png)
 
 The project started as a desktop PySide6 simulation and was later extended into a server-driven real-time web experience. The current architecture supports:
 
