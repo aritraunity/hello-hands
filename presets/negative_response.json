@@ -1,0 +1,47 @@
+{
+    "label": "Negative",
+    "frames": [
+        {
+            "target_x": 540,
+            "target_y": 315,
+            "pivot_angle": 0,
+            "claw_value": 20,
+            "duration_steps": 18
+        },
+        {
+            "target_x": 500,
+            "target_y": 315,
+            "pivot_angle": 0,
+            "claw_value": 85,
+            "duration_steps": 6
+        },
+        {
+            "target_x": 580,
+            "target_y": 315,
+            "pivot_angle": 0,
+            "claw_value": 20,
+            "duration_steps": 6
+        },
+        {
+            "target_x": 500,
+            "target_y": 315,
+            "pivot_angle": 0,
+            "claw_value": 85,
+            "duration_steps": 6
+        },
+        {
+            "target_x": 580,
+            "target_y": 315,
+            "pivot_angle": 0,
+            "claw_value": 20,
+            "duration_steps": 6
+        },
+        {
+            "target_x": 540,
+            "target_y": 320,
+            "pivot_angle": 0,
+            "claw_value": 40,
+            "duration_steps": 18
+        }
+    ]
+}

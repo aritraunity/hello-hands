@@ -1,0 +1,10 @@
+{
+    "label": "Positive",
+    "frames": [
+        {"target_x": 500, "target_y": 300, "pivot_angle": -10, "claw_value": 40},
+        {"target_x": 540, "target_y": 230, "pivot_angle": -30, "claw_value": 70},
+        {"target_x": 580, "target_y": 190, "pivot_angle": -45, "claw_value": 90},
+        {"target_x": 540, "target_y": 230, "pivot_angle": -30, "claw_value": 70},
+        {"target_x": 540, "target_y": 320, "pivot_angle": 0, "claw_value": 40}
+    ]
+}

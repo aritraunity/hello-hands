@@ -1,0 +1,10 @@
+{
+    "label": "Greeting",
+    "frames": [
+        {"target_x": 520, "target_y": 260, "pivot_angle": -20, "claw_value": 60},
+        {"target_x": 560, "target_y": 220, "pivot_angle": 10, "claw_value": 80},
+        {"target_x": 520, "target_y": 260, "pivot_angle": -20, "claw_value": 60},
+        {"target_x": 560, "target_y": 220, "pivot_angle": 10, "claw_value": 80},
+        {"target_x": 540, "target_y": 320, "pivot_angle": 0, "claw_value": 40}
+    ]
+}
